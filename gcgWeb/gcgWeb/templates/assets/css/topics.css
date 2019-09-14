@@ -1,0 +1,17 @@
+#keynotes {
+    width:80%;
+    margin:auto;
+}
+
+#keynotes > h3 {
+    text-align:center;
+}
+
+#breakouts {
+    width:80%;
+    margin:auto;
+}
+
+#breakouts > h3 {
+    text-align:center;
+}
